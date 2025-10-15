@@ -350,10 +350,10 @@ The platform enforces collaboration through:
 
 * **Backend:** Spring Boot (Java 11+)
 * **Database:** PostgreSQL 12+
-* **Frontend:** React / React.js
+* **Frontend:** React 
 * **Authentication:** JWT Token-Based
 * **Security:** Spring Security + RBAC
-* **File Storage:** Cloud Storage (AWS S3 / Azure Blob)
+* **File Storage:** Cloud Storage AWS S3 
 * **Payment Gateway:** Multiple providers supported
 * **Caching:** Redis
 * **Message Queue:** RabbitMQ
