@@ -12,8 +12,7 @@ A comprehensive web platform connecting landlords and renters through intelligen
 * [Features](#features)
 * [System Architecture](#system-architecture)
 * [Tech Stack](#tech-stack)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
