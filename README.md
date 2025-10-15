@@ -1,4 +1,4 @@
-# RentalConnect Solutions
+# OLISTAY RECCOMENDATION PLATFORM
 
 ## Smart Rental Matching Platform
 
@@ -8,28 +8,27 @@ A comprehensive web platform connecting landlords and renters through intelligen
 
 ## Table of Contents
 
-* [Overview](#overview)
-* [Features](#features)
+* [Executive Summary](#executive-summary)
+* [Problem Description](#problem-description)
 * [System Architecture](#system-architecture)
 * [Tech Stack](#tech-stack)
 
 
 ---
 
-## Overview
+## Executive Summary
 
-RentalConnect connects landlords, renters, validators, and administrators through an intelligent matching ecosystem. The platform analyzes renter financial profiles and recommends properties that support stable living and financial goals, preventing housing instability and excessive financial strain.
+The Olistay Platform is an innovative web-based solution designed to revolutionize the rental market by intelligentyly matching tenants with properties based on comprehensive financial profiling and lifestyle requiremnts. Unlike traditional rental platforms that simply list available properties , Olistay  employs a sophisticated reccomendation engine that considers job stability, salary range, family composition, transportation costs, and savings objective to suggest housing options that align with renter's financial goals and lifestyle needs.
 
-### Key Benefits:
+The platform serves two  primary users which are landlords seeking reliable tenants and renters looking for affordable housing that enables financial stability.By collecting detailed information about a renter's financial situation, employment, faily structure , and expenditure  patterns, Olistay generates personalized reccomendation  which will help  user overextending themselves financially while achieving their savings objetives. 
 
-* Renters find affordable housing aligned with their financial capacity
-* Landlords connect with pre-qualified, financially stable tenants
-* Validators ensure platform integrity and user protection
-* Transparent, auditable transaction records for all stakeholders
+This project convey a critical gap in the rental market where many individuals struggle to find housing that fits within their budget constraints while maintaining a reasonable  quality of life. Traditional platforms mostly focuses on property features and location, ignoring a very important aspect of financial compatability. This platform  bridges the gap by incorporating financial wellness into the housing search process
 
 ---
 
-## Features
+
+
+## Problem Descriptio
 
 ### 1. User Management
 
