@@ -28,9 +28,18 @@ This project convey a critical gap in the rental market where many individuals s
 
 
 
-## Problem Descriptio
+## Problem Description
 
-### 1. User Management
+### 1. Current State of the Rental Market
+The mondern rental housing market faces several systemic challenges that negatively impact both renters and landlords. These challenges create inefficiecies, financial stress, and suboptimal matching between available properties and potential tenants.
+
+### For Renters:
+The housing search process remains time-consuming, and often leads to poor financial decisions. Many renters lack the tools or financial literacy yo accurately access whether a rental property fits within their budget when considering all associated costs. The primary issues include:
+* Rental platforms provide extensive property information but offer no guidance on affordability relative to the individual circumstances. A renter earning 250,000FCFA per month with two children and a car expenses faces very different budget limitations  than a single proffesional earning thesame amount , yet both recieve identical results.
+* Renters frequently focus mostly focus on monthly rent without taking into account their transportation costs, utility expences, parking fees, and location based spendings
+* Without proper budgeting tools, many renters commit to properties that consume excessive portions of their income, leaving insufficient funds for savings, emergencies, or quality of life improvements. Financial experts recommend no more than 30% of income to housing , yet some renters exceeds 40-50% due to lack of comprehensive planning tools.
+* Properties that suit single professionals oftern prove inadequate for families, yet rental platforms rarely help users filter base on theire lifestyle requiremnets.
+* Most renters have financial objectives—building emergency funds, saving for education, planning for major purchases—but lack tools to identify housing that enables these goals rather than obstructing them.
 
 #### FR1.1: Account Creation and Management
 
