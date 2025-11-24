@@ -13,7 +13,6 @@
 ## Overview
 >>>>>>> 59d87b41fd62c4e98a91c7a390369f4f547f6403
 
-OLISTAY SOLUTION is an innovative web-based platform designed to revolutionize the rental housing market in Cameroon by intelligently matching tenants with properties based on comprehensive financial profiling and lifestyle requirements. The platform combines a React.js frontend with a SpringBoot backend to deliver a modern, responsive user experience paired with robust server-side processing.
 OLISTAY SOLUTION is an innovative web-based platform designed to revolutionize the rental housing market in Cameroon by intelligently matching tenants with properties based on comprehensive financial profiling and lifestyle requirements. The platform addresses the critical mismatch between renters' financial capabilities and the properties they select by integrating intelligent recommendation algorithms with comprehensive financial profiling.
 
 <<<<<<< HEAD
